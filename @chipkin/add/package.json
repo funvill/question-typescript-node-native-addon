@@ -1,0 +1,24 @@
+{
+  "name": "@chipkin/add",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "node-gyp rebuild && tsc",
+    "clean": "node-gyp clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "node-addon-api": "^8.1.0"
+  }
+}
