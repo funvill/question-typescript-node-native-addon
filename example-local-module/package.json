@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@chipkin/add": "file:../@chipkin/add"
+    "@funvill/add": "file:../@funvill/add"
   },
   "devDependencies": {
     "typescript": "^5.5.4"

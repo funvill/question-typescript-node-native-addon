@@ -1,0 +1,7 @@
+
+@funvill/add/build/
+@funvill/add/dist/
+node_modules
+dist
+@chipkin/add/package-lock.json
+example-local-module/package-lock.json
