@@ -6,10 +6,6 @@ int GetNumber()
     return 5;
 }
 
-
-// Example
-// ----------------------------------------------------------------------------
-
 // Wrappers for the C++ functions
 Napi::Value GetNumberWrapped(const Napi::CallbackInfo &info)
 {
