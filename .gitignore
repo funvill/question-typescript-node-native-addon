@@ -5,3 +5,4 @@ node_modules
 dist
 @chipkin/add/package-lock.json
 example-local-module/package-lock.json
+@funvill/add/bin/win32-x64-128/add.node
